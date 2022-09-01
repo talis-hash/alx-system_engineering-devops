@@ -1,2 +1,1 @@
-#!/bin/bash
-chmod u+x -gx -or hello
+chmod u+x,g+x,0+r hellow
